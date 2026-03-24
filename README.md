@@ -4,6 +4,8 @@
 
 A simple and heartfelt birthday website created to celebrate my father's special day. This project is designed to express love, appreciation, and gratitude through a personalized web experience.
 
+# I hope my father love this and my hardwork understand and also  i can explain then how the ai is powerfull and usefull.
+
 ## 💡 Features
 
 - 🎂 Beautiful birthday-themed UI  
