@@ -8,6 +8,8 @@ I ask to shopkeeper to make a frame of that last special picture let's see how t
 
 # I hope my father love this and my hardwork understand and also  i can explain then how the ai is powerfull and usefull.
 
+#and today is show time and it's worked succesfully my father love this and also he said that my money of laptop is useful. I am so happy to see my father like this and i want to make more my father's dream true which he could not complete. I make them proud like this for dong more work ike that i can do anything for that smile.
+
 ## 💡 Features
 
 - 🎂 Beautiful birthday-themed UI  
