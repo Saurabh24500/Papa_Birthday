@@ -18,7 +18,10 @@ I ask to shopkeeper to make a frame of that last special picture let's see how t
 - 💖 Personalized messages and wishes  
 - 🎶 Background music (if added)  
 - 📱 Responsive design for mobile and desktop  
-- ✨ Smooth animations and transitions  
+- ✨ Smooth animations and transitions
+## New Future Features
+- Make a book like where photo in magzine.
+- remove lag also make three gift option type open one by one
 
 ## 🚀 Technologies Used
 
