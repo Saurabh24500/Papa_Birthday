@@ -2,6 +2,8 @@
 
 🔗 Live Demo: https://papabirthday245.firebaseapp.com
 
+I think i need to privet this so due to privacy.
+
 # I made this by curser and github copilate and all went best and i done it
 
 A simple and heartfelt birthday website created to celebrate my father's special day. This project is designed to express love, appreciation, and gratitude through a personalized web experience.
