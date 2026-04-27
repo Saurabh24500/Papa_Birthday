@@ -25,6 +25,7 @@ Yes, we won we see the happiness on our father face and we felt glad to see our 
 ## New Future Features
 - Make a book like where photo in magzine.
 - remove lag also make three gift option type open one by one
+- add song feature and dark and light theme with black and white and colorfull image theme.
 
 ## 🚀 Technologies Used
 
