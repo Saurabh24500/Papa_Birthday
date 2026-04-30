@@ -8,7 +8,7 @@ I think i need to privet this so due to privacy.
 
 A simple and heartfelt birthday website created to celebrate my father's special day. This project is designed to express love, appreciation, and gratitude through a personalized web experience.
 
-I ask to shopkeeper to make a frame of that last special picture let's see how the reaction we got from papa on that moment.
+I ask to shopkeeper to make a frame of that last special picture let's see how the reaction we got from papa on that moment...
 
 # I hope my father love this and my hardwork understand and also  i can explain then how the ai is powerfull and usefull.
 Yes, we won we see the happiness on our father face and we felt glad to see our father like that and we wor more hard to do this again.
